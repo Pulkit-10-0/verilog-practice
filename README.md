@@ -31,36 +31,6 @@ The repository focuses on:
 
 ---
 
-# Repository Structure
-
-```text
-verilog-practice/
-│
-├── combinational/
-│   ├── bcd_adder.v
-│   ├── bcd_adder.png
-│   │
-│   ├── half_adder.v
-│   ├── half_adder.png
-│   │
-│   ├── full_adder.v
-│   ├── full_adder.png
-│   │
-│   ├── full_adder_using_half_adder.v
-│   ├── full_adder_using_half_adder.png
-│   │
-│   ├── half_subtractor.v
-│   ├── half_subtractor.png
-│   │
-│   ├── full_subtractor.v
-│   ├── full_subtractor.png
-│   │
-│   ├── ripple_carry_adder.v
-│   ├── ripple_carry_adder_waveform.png
-│   └── ripple_carry_adder_schematic.png
-│
-└── README.md
-```
 
 
 This repository is part of my learning journey toward:
