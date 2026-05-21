@@ -16,7 +16,7 @@ This repository contains Verilog HDL implementations of fundamental digital logi
 The repository focuses on:
 - Understanding combinational logic design
 - Writing synthesizable Verilog HDL
-- Simulating digital circuits
+- Simulating digital circuits    
 - Analyzing simulation waveforms
 - Building a strong foundation for VLSI and RTL design
 
